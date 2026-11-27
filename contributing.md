@@ -200,4 +200,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*SCP: Secret Laboratory · Updated 2026-11-26 · Shared under the MIT License*
+*SCP: Secret Laboratory · Updated 2026-11-27 · Shared under the MIT License*
